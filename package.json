@@ -1,0 +1,22 @@
+{
+  "name": "quote-generator-with-history",
+  "version": "1.0.0",
+  "description": "Full-stack Quote Generator with SQLite favorites history and fallback dataset",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "quote-generator",
+    "express",
+    "sqlite3",
+    "full-stack"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "sqlite3": "^6.0.1"
+  }
+}

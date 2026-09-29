@@ -1,0 +1,17 @@
+﻿# Dependencies
+node_modules/
+
+# SQLite Database files (generated locally at runtime)
+quotes.db
+quotes.db-journal
+quotes.db-wal
+quotes.db-shm
+
+# Environment & logs
+.env
+*.log
+npm-debug.log*
+
+# OS metadata
+.DS_Store
+Thumbs.db
